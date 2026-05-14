@@ -7,7 +7,7 @@ import time
 from moviepy import VideoFileClip
 
 # 1. Page Config - Forces Light Mode aesthetic
-st.set_page_config(page_title="Video Splitter", page_icon="✂️", layout="centered")
+st.set_page_config(page_title="5MINCLIPS", page_icon="✂️", layout="centered")
 
 # 2. Forced CSS for flat white branding and visible text
 st.markdown("""
